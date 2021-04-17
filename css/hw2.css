@@ -1,0 +1,58 @@
+header{
+    background: #767676 url("../image/image.jpeg");
+    padding:1%;
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin:0 auto
+}
+nav a{
+    display: inline-block;
+    color: #000;
+    background: rgba(187, 187, 187, 0.61);
+    border-bottom-style: unset;
+    text-decoration: none;
+    padding:10px 5%;
+    margin:20px;
+    border-radius: 5px;
+}
+
+
+nav a:hover{
+    background: rgba(255, 255, 255, 0.82);
+}
+nav .active{
+    background: white ;
+}
+aside{
+    display: inline-block;
+}
+img{
+    float: left;
+    width: 80%;
+    clear: both;
+    margin: 20px;
+}
+h2{
+    color: black;
+    text-transform: uppercase;
+}
+nav{
+    text-align: center;
+    background: transparent;
+}
+body{
+    margin:1%;
+    padding:1%;
+}
+.left{
+    background: olive;
+    width:20%;
+    float: left;
+}
+.right{
+    padding: 5%;
+    margin: 2%
+}
